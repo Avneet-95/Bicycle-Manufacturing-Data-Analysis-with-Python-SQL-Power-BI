@@ -1,0 +1,2 @@
+# Bicycle-Manufacturing-Data-Analysis-with-Python-SQL-Power-BI
+This project analyzes the AdventureWorks database to optimize manufacturing and inventory processes of a fictional bicycle company. Using SQL Server, Python, and Power BI, it delivers insights through interactive dashboards with KPIs, cost analysis, and production trends. Visual tools like Pareto charts highlight inefficiencies for data-driven dec.
